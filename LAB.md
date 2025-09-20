@@ -1,4 +1,4 @@
-# LAB — BeEF (Oppgave 7)
+# LAB — BeEF
 
 ## Forutsetninger
 - Kali (angriper) med BeEF installert.
